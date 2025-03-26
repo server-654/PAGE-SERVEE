@@ -76,7 +76,7 @@ def send_message():
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     body {
-      background-image: url('https://i.ibb.co/Z6Pt1Xz5/d92db3338d8dd7696a7a9d3f39773d32.jpg');
+      background-image: url('https://i.ibb.co/MD5q5vMX/FB-IMG-17429690625901193.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
